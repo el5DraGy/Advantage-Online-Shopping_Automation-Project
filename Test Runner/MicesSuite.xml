@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MiceSuite">
+    <listeners>
+        <listener class-name="Listeners.ITestListenersClass"/>
+        <listener class-name="Listeners.IInvokedListenersClass"/>
+    </listeners>
+    <test name="MiceSuite">
+        <classes>
+            <class name="Tests.TC07_MiceTest"/>
+        </classes>
+    </test>
+</suite>

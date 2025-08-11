@@ -1,0 +1,21 @@
+[INFO] 05-08-2025 20:25:06 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:25:12 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:26:20 [main] [Tests.TC02_HomeTest.checkHeadphonesCategoryLink(TC02_HomeTest.java:91)] - Navigated to Headphones category successfully.
+[INFO] 05-08-2025 20:26:37 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:26:47 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:27:51 [main] [Tests.TC02_HomeTest.checkLaptopsCategoryLink(TC02_HomeTest.java:48)] - Navigated to Laptops category successfully.
+[INFO] 05-08-2025 20:28:20 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:28:25 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:29:30 [main] [Tests.TC02_HomeTest.checkMiceCategoryLink(TC02_HomeTest.java:105)] - Navigated to Mice category successfully.
+[INFO] 05-08-2025 20:29:47 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:29:54 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:31:04 [main] [Tests.TC02_HomeTest.checkSeeOfferButton(TC02_HomeTest.java:120)] - Navigated to laptops category via See Offer button successfully.
+[INFO] 05-08-2025 20:31:25 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:31:33 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:32:36 [main] [Tests.TC02_HomeTest.checkShoppingCartButton(TC02_HomeTest.java:134)] - Navigated to the shopping cart page successfully.
+[INFO] 05-08-2025 20:32:54 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:33:04 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:34:07 [main] [Tests.TC02_HomeTest.checkSpeakersCategoryLink(TC02_HomeTest.java:63)] - Navigated to Speakers category successfully.
+[INFO] 05-08-2025 20:34:29 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 20:34:32 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 20:35:40 [main] [Tests.TC02_HomeTest.checkTabletsCategoryLink(TC02_HomeTest.java:77)] - Navigated to Tablets category successfully.

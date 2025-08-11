@@ -1,0 +1,3 @@
+[INFO] 09-08-2025 18:31:09 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:31:18 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:31:47 [main] [Tests.TC09_ShoppingCartTest.verifyCheckoutButton(TC09_ShoppingCartTest.java:106)] - The user is redirected to the Shipping Details page after clicking on the 'Checkout' button.

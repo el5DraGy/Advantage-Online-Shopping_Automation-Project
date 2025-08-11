@@ -1,0 +1,7 @@
+[INFO] 08-08-2025 14:50:08 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:28)] - starting Edge browser
+[INFO] 08-08-2025 14:50:17 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:30)] - get the URL and loading the page
+[INFO] 08-08-2025 14:50:33 [main] [Tests.TC01_LogInTest.validLogInTC(TC01_LogInTest.java:47)] - The user is redirected to the home page after logging in with valid credentials.
+[INFO] 08-08-2025 14:50:37 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 14:50:57 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 14:51:20 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 14:51:29 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page

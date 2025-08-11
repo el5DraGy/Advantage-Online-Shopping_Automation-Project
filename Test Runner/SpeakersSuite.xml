@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SpeakersSuite">
+    <listeners>
+        <listener class-name="Listeners.ITestListenersClass"/>
+        <listener class-name="Listeners.IInvokedListenersClass"/>
+    </listeners>
+    <test name="SpeakersSuite">
+        <classes>
+            <class name="Tests.TC06_SpeakersTest"/>
+        </classes>
+    </test>
+</suite>

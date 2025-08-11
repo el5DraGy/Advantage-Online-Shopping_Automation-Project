@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <listeners>
+        <listener class-name="Listeners.ITestListenersClass"/>
+        <listener class-name="Listeners.IInvokedListenersClass"/>
+    </listeners>
+    <test name="Regression Tests">
+        <classes>
+            <class name="Tests.TC01_LogInTest"/>
+            <class name="Tests.TC02_HomeTest"/>
+            <class name="Tests.TC03_LaptopsTest"/>
+            <class name="Tests.TC04_HeadphonesTest"/>
+            <class name="Tests.TC05_TabletsTest"/>
+            <class name="Tests.TC06_SpeakersTest"/>
+            <class name="Tests.TC07_MiceTest"/>
+            <class name="Tests.TC08_ProductSpecificationsTest"/>
+            <class name="Tests.TC09_ShoppingCartTest"/>
+            <class name="Tests.TC10_ShippingDetailsTest"/>
+            <class name="Tests.TC11_PaymentMethodsTest"/>
+            <class name="Tests.TC12_OrderSummaryTest"/>
+        </classes>
+    </test>
+</suite>

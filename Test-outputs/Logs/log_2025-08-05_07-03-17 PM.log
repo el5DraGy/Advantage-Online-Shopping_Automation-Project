@@ -1,0 +1,3 @@
+[INFO] 05-08-2025 19:03:18 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 19:03:23 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 19:04:29 [main] [Tests.TC02_HomeTest.checkShoppingCartButton(TC02_HomeTest.java:134)] - Navigated to the shopping cart page successfully.

@@ -1,0 +1,5 @@
+[INFO] 11-08-2025 15:02:00 [main] [Tests.TC12_OrderSummaryTest.setup(TC12_OrderSummaryTest.java:32)] - starting Edge browser
+[INFO] 11-08-2025 15:02:15 [main] [Tests.TC12_OrderSummaryTest.setup(TC12_OrderSummaryTest.java:34)] - get the URL and loading the page
+[INFO] 11-08-2025 15:02:30 [main] [Listeners.ITestListenersClass.onTestStart(ITestListenersClass.java:9)] - test case verifyEndToEndScenario Started
+[INFO] 11-08-2025 15:03:36 [main] [Tests.TC12_OrderSummaryTest.verifyEndToEndScenario(TC12_OrderSummaryTest.java:91)] - The user is redirected to the Order Summary page after clicking on the 'Pay Now' button using Master Credit.
+[INFO] 11-08-2025 15:03:36 [main] [Listeners.ITestListenersClass.onTestSuccess(ITestListenersClass.java:13)] - test case verifyEndToEndScenario Succeed

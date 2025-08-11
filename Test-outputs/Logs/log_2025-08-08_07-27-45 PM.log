@@ -1,0 +1,12 @@
+[INFO] 08-08-2025 19:27:45 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 19:27:54 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 19:28:05 [main] [Tests.TC05_TabletsTest.exploreTravelConfidentlyAndInStyleSection(TC05_TabletsTest.java:39)] - The user is redirected to the TRAVEL CONFIDENTLY AND IN STYLE page after clicking on the 'Buy Now' button.
+[INFO] 08-08-2025 19:28:09 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 19:28:19 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 19:28:28 [main] [Tests.TC05_TabletsTest.tablets_HP_ElitePad_1000_TC(TC05_TabletsTest.java:52)] - The user is redirected to the HP ELITEPAD 1000 G2 TABLET product page.
+[INFO] 08-08-2025 19:28:32 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 19:28:45 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 19:28:56 [main] [Tests.TC05_TabletsTest.tablets_HP_Elite_x2_1011_TC(TC05_TabletsTest.java:65)] - The user is redirected to the HP ELITE X2 1011 G1 TABLET product page.
+[INFO] 08-08-2025 19:28:59 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 19:29:09 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 19:29:19 [main] [Tests.TC05_TabletsTest.tablets_HP_Pro_Tablet_608_TC(TC05_TabletsTest.java:78)] - The user is redirected to the HP PRO TABLET 608 G1 product page.

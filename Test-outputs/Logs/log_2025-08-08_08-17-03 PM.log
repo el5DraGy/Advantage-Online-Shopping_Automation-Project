@@ -1,0 +1,3 @@
+[INFO] 08-08-2025 20:17:03 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:17:14 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:17:24 [main] [Tests.TC06_SpeakersTest.speakers_HPRoarPlusWirelessSpeaker_TC(TC06_SpeakersTest.java:91)] - The user is redirected to the HP ROAR PLUS WIRELESS SPEAKER product page.

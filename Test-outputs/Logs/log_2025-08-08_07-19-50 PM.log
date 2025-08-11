@@ -1,0 +1,3 @@
+[INFO] 08-08-2025 19:19:50 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 19:20:04 [main] [Tests.TC05_TabletsTest.setup(TC05_TabletsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 19:20:14 [main] [Tests.TC05_TabletsTest.exploreTravelConfidentlyAndInStyleSection(TC05_TabletsTest.java:39)] - The user is redirected to the TRAVEL CONFIDENTLY AND IN STYLE page after clicking on the 'Buy Now' button.

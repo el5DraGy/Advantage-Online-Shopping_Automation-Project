@@ -1,0 +1,13 @@
+[INFO] 09-08-2025 18:42:56 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:43:05 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:43:11 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:43:22 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:43:50 [main] [Tests.TC09_ShoppingCartTest.verifyCheckoutButton(TC09_ShoppingCartTest.java:106)] - The user is redirected to the Shipping Details page after clicking on the 'Checkout' button.
+[INFO] 09-08-2025 18:43:53 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:44:04 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:44:09 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:44:19 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:44:48 [main] [Tests.TC09_ShoppingCartTest.verifyEditButton(TC09_ShoppingCartTest.java:68)] - The user is redirected to the HP Chromebook 14 G1 (ENERGY STAR) product page.
+[INFO] 09-08-2025 18:44:52 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:28)] - starting Edge browser
+[INFO] 09-08-2025 18:45:06 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:30)] - get the URL and loading the page
+[INFO] 09-08-2025 18:45:21 [main] [Tests.TC09_ShoppingCartTest.verifyRemoveButton(TC09_ShoppingCartTest.java:85)] - The user is redirected to the Shopping Cart page after removing the product.

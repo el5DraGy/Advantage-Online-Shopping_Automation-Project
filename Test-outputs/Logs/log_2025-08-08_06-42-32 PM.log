@@ -1,0 +1,17 @@
+[INFO] 08-08-2025 18:42:32 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:42:43 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:43:00 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:43:09 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:43:19 [main] [Tests.TC04_HeadphonesTest.exploreFeelYourMusicSection(TC04_HeadphonesTest.java:51)] - The user is redirected to the FEEL YOUR MUSIC page after clicking on the 'Buy Now' button.
+[INFO] 08-08-2025 18:43:21 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:43:31 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:43:40 [main] [Tests.TC04_HeadphonesTest.headphones_Beats_Studio2_OverEar_TC(TC04_HeadphonesTest.java:65)] - The user is redirected to the BEATS STUDIO 2 OVER-EAR MATTE BLACK HEADPHONES product page.
+[INFO] 08-08-2025 18:43:42 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:43:52 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:44:02 [main] [Tests.TC04_HeadphonesTest.headphones_Bose_SoundLink_AroundEar_TC(TC04_HeadphonesTest.java:78)] - The user is redirected to the BOSE SOUNDLINK AROUND-EAR WIRELESS HEADPHONES II product page.
+[INFO] 08-08-2025 18:44:06 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:44:16 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:44:26 [main] [Tests.TC04_HeadphonesTest.headphones_HP_H2310_InEar_TC(TC04_HeadphonesTest.java:91)] - The user is redirected to the HP H2310 IN-EAR HEADSET product page.
+[INFO] 08-08-2025 18:44:28 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 18:44:36 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page
+[INFO] 08-08-2025 18:44:45 [main] [Tests.TC04_HeadphonesTest.headphones_Logitech_USB_Headset_H390_TC(TC04_HeadphonesTest.java:104)] - The user is redirected to the LOGITECH USB HEADSET H390 product page.

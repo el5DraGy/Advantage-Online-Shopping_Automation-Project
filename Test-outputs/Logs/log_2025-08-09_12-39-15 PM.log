@@ -1,0 +1,3 @@
+[INFO] 09-08-2025 12:39:15 [main] [Tests.TC08_ProductSpecificationsTest.setup(TC08_ProductSpecificationsTest.java:24)] - starting Edge browser
+[INFO] 09-08-2025 12:39:23 [main] [Tests.TC08_ProductSpecificationsTest.setup(TC08_ProductSpecificationsTest.java:26)] - get the URL and loading the page
+[INFO] 09-08-2025 12:39:37 [main] [Tests.TC08_ProductSpecificationsTest.verifyProductSpecificationsPageTitle(TC08_ProductSpecificationsTest.java:78)] - The product title matches the expected title.

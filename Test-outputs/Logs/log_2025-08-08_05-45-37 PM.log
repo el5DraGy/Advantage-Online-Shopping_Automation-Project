@@ -1,0 +1,38 @@
+[INFO] 08-08-2025 17:45:37 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:45:47 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:45:57 [main] [Tests.TC03_LaptopsTest.exploreTheNewDesignSection(TC03_LaptopsTest.java:55)] - The user is redirected to the THE NEW DESIGN page after clicking on the 'Buy Now' button.
+[INFO] 08-08-2025 17:46:00 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:46:12 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:46:21 [main] [Tests.TC03_LaptopsTest.laptop_HP_Chromebook_14G1_ES_TC(TC03_LaptopsTest.java:84)] - The user is redirected to the HP Chromebook 14 G1 (ES) product page.
+[INFO] 08-08-2025 17:46:24 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:46:35 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:46:45 [main] [Tests.TC03_LaptopsTest.laptop_HP_Chromebook_14G1_EnergyStar_TC(TC03_LaptopsTest.java:70)] - The user is redirected to the HP Chromebook 14 G1 (ENERGY STAR) product page.
+[INFO] 08-08-2025 17:46:48 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:46:57 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:47:06 [main] [Tests.TC03_LaptopsTest.laptop_HP_ENVY_17T_Touch_TC(TC03_LaptopsTest.java:98)] - The user is redirected to the HP ENVY - 17T TOUCH LAPTOP product page.
+[INFO] 08-08-2025 17:47:09 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:47:22 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:47:32 [main] [Tests.TC03_LaptopsTest.laptop_HP_ENVY_X360_15T_TC(TC03_LaptopsTest.java:112)] - The user is redirected to the HP ENVY X360 - 15T LAPTOP product page.
+[INFO] 08-08-2025 17:47:35 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:47:51 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:48:09 [main] [Tests.TC03_LaptopsTest.laptop_HP_Pavilion_15T_Touch_TC(TC03_LaptopsTest.java:125)] - The user is redirected to the HP PAVILION 15T TOUCH LAPTOP product page.
+[INFO] 08-08-2025 17:48:12 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:48:37 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:49:10 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:49:21 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:49:29 [main] [Tests.TC03_LaptopsTest.laptop_HP_Pavilion_15Z_Touch_TC(TC03_LaptopsTest.java:151)] - The user is redirected to the HP PAVILION 15Z TOUCH LAPTOP product page.
+[INFO] 08-08-2025 17:49:34 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:49:45 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:49:55 [main] [Tests.TC03_LaptopsTest.laptop_HP_Pavilion_X360_11T_Touch_TC(TC03_LaptopsTest.java:164)] - The user is redirected to the HP PAVILION X360 - 11T TOUCH LAPTOP product page.
+[INFO] 08-08-2025 17:49:59 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:50:06 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:50:16 [main] [Tests.TC03_LaptopsTest.laptop_HP_Spectre_X360_13_4102DX_TC(TC03_LaptopsTest.java:177)] - The user is redirected to the HP SPECTRE X360 - 13-4102DX product page.
+[INFO] 08-08-2025 17:50:19 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:50:29 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:50:46 [main] [Tests.TC03_LaptopsTest.laptop_HP_Stream_11_D020NR_TC(TC03_LaptopsTest.java:190)] - The user is redirected to the HP STREAM - 11-D020NR LAPTOP product page.
+[INFO] 08-08-2025 17:50:49 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:50:57 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:51:06 [main] [Tests.TC03_LaptopsTest.laptop_HP_ZBook_17_G2_Mobile_Workstation_TC(TC03_LaptopsTest.java:203)] - The user is redirected to the HP ZBOOK 17 G2 MOBILE WORKSTATION product page.
+[INFO] 08-08-2025 17:51:11 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 17:51:20 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 17:51:35 [main] [Tests.TC03_LaptopsTest.navigateToLaptopsCategory(TC03_LaptopsTest.java:41)] - The user is redirected to the shopping cart page after adding a product to the cart.

@@ -1,0 +1,3 @@
+[INFO] 08-08-2025 20:17:50 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:17:57 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:18:12 [main] [Tests.TC06_SpeakersTest.speakers_LogitechX100SpeakerSystem_TC(TC06_SpeakersTest.java:130)] - The user is redirected to the LOGITECH X100 SPEAKER SYSTEM product page.

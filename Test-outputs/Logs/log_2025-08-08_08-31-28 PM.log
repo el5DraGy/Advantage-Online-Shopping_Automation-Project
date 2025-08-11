@@ -1,0 +1,24 @@
+[INFO] 08-08-2025 20:31:28 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:32:36 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:32:39 [main] [Tests.TC06_SpeakersTest.exploreEnjoyPremiumSoundSection(TC06_SpeakersTest.java:39)] - The user is redirected to the ENJOY PREMIUM SOUND page after clicking on the 'Buy Now' button.
+[INFO] 08-08-2025 20:32:42 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:33:03 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:33:13 [main] [Tests.TC06_SpeakersTest.speakers_BoseSoundLinkWirelessSpeaker_TC(TC06_SpeakersTest.java:65)] - The user is redirected to the BOSE SOUNDLINK WIRELESS SPEAKER product page.
+[INFO] 08-08-2025 20:33:16 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:33:26 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:33:35 [main] [Tests.TC06_SpeakersTest.speakers_BoseSoundlinkBluetoothSpeaker_TC(TC06_SpeakersTest.java:52)] - The user is redirected to the BOSE SOUNDLINK BLUETOOTH SPEAKER III product page.
+[INFO] 08-08-2025 20:33:39 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:33:48 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:33:56 [main] [Tests.TC06_SpeakersTest.speakers_HPRoarMiniWirelessSpeaker_TC(TC06_SpeakersTest.java:78)] - The user is redirected to the HP ROAR MINI WIRELESS SPEAKER product page.
+[INFO] 08-08-2025 20:34:00 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:34:09 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:34:18 [main] [Tests.TC06_SpeakersTest.speakers_HPRoarPlusWirelessSpeaker_TC(TC06_SpeakersTest.java:91)] - The user is redirected to the HP ROAR PLUS WIRELESS SPEAKER product page.
+[INFO] 08-08-2025 20:34:22 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:34:31 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:34:41 [main] [Tests.TC06_SpeakersTest.speakers_HPRoarWirelessSpeaker_TC(TC06_SpeakersTest.java:104)] - The user is redirected to the HP ROAR WIRELESS SPEAKER product page.
+[INFO] 08-08-2025 20:34:44 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:34:52 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:35:01 [main] [Tests.TC06_SpeakersTest.speakers_HPS9500BluetoothWirelessSpeaker_TC(TC06_SpeakersTest.java:117)] - The user is redirected to the HP S9500 BLUETOOTH WIRELESS SPEAKER product page.
+[INFO] 08-08-2025 20:35:05 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 20:35:15 [main] [Tests.TC06_SpeakersTest.setup(TC06_SpeakersTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 20:35:25 [main] [Tests.TC06_SpeakersTest.speakers_LogitechX100SpeakerSystem_TC(TC06_SpeakersTest.java:130)] - The user is redirected to the LOGITECH X100 SPEAKER SYSTEM product page.

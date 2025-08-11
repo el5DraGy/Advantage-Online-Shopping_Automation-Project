@@ -1,0 +1,15 @@
+[INFO] 10-08-2025 22:51:44 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:28)] - starting Edge browser
+[INFO] 10-08-2025 22:51:54 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:30)] - get the URL and loading the page
+[INFO] 10-08-2025 22:52:13 [main] [Tests.TC01_LogInTest.validLogInTC(TC01_LogInTest.java:47)] - The user is redirected to the home page after logging in with valid credentials.
+[INFO] 10-08-2025 22:52:17 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 10-08-2025 22:52:26 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 10-08-2025 22:52:57 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 10-08-2025 22:53:07 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 10-08-2025 22:53:25 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:256)] - All social media footer links are displayed.
+[INFO] 10-08-2025 22:53:25 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:260)] - Checking footer social media links hrefs...
+[INFO] 10-08-2025 22:53:25 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:264)] - Clicking on footer social media links to verify navigation...
+[INFO] 10-08-2025 22:53:30 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:270)] - All social media footer links are displayed and have valid hrefs and navigation.
+[INFO] 10-08-2025 22:53:40 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 10-08-2025 22:53:59 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 10-08-2025 22:54:26 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 10-08-2025 22:54:37 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page

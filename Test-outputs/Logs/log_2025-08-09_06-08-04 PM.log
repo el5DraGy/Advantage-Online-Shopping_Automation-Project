@@ -1,0 +1,5 @@
+[INFO] 09-08-2025 18:08:04 [main] [Tests.TC08_ProductSpecificationsTest.setup(TC08_ProductSpecificationsTest.java:23)] - starting Edge browser
+[INFO] 09-08-2025 18:08:11 [main] [Tests.TC08_ProductSpecificationsTest.setup(TC08_ProductSpecificationsTest.java:25)] - get the URL and loading the page
+[INFO] 09-08-2025 18:08:25 [main] [Tests.TC08_ProductSpecificationsTest.verifyColorRadioButtons(TC08_ProductSpecificationsTest.java:79)] - The second color radio button is selected.
+[INFO] 09-08-2025 18:08:25 [main] [Tests.TC08_ProductSpecificationsTest.verifyColorRadioButtons(TC08_ProductSpecificationsTest.java:85)] - The first color radio button is selected.
+[INFO] 09-08-2025 18:08:26 [main] [Tests.TC08_ProductSpecificationsTest.verifyColorRadioButtons(TC08_ProductSpecificationsTest.java:91)] - The third color radio button is selected.

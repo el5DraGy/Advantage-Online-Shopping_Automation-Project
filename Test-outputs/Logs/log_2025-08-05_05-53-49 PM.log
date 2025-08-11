@@ -1,0 +1,3 @@
+[INFO] 05-08-2025 17:53:49 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:29)] - starting Edge browser
+[INFO] 05-08-2025 17:53:53 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - get the URL and loading the page
+[INFO] 05-08-2025 17:54:59 [main] [Tests.TC02_HomeTest.checkMiceCategoryLink(TC02_HomeTest.java:105)] - Navigated to Mice category successfully.

@@ -1,0 +1,4 @@
+[INFO] 09-08-2025 21:49:05 [main] [Tests.TC10_ShippingDetailsTest.setup(TC10_ShippingDetailsTest.java:36)] - starting Edge browser
+[INFO] 09-08-2025 21:49:15 [main] [Tests.TC10_ShippingDetailsTest.setup(TC10_ShippingDetailsTest.java:38)] - get the URL and loading the page
+[INFO] 09-08-2025 21:49:43 [main] [Tests.TC10_ShippingDetailsTest.verifyNextButtonInOrderPaymentPage(TC10_ShippingDetailsTest.java:60)] - The user is redirected to the Shipping Details METHOD page after clicking on the 'checkout' button.
+[INFO] 09-08-2025 21:49:43 [main] [Tests.TC10_ShippingDetailsTest.verifyNextButtonInOrderPaymentPage(TC10_ShippingDetailsTest.java:63)] - The user is redirected to the PAYMENT METHOD page after clicking on the 'Next' button.

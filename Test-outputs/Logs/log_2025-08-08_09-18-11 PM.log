@@ -1,0 +1,3 @@
+[INFO] 08-08-2025 21:18:11 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:18:18 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:18:27 [main] [Tests.TC07_MiceTest.mice_HP_Z3600_Wireless_Mouse_TC(TC07_MiceTest.java:76)] - The user is redirected to the HP Z3600 Wireless Mouse product page.

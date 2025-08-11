@@ -1,0 +1,4 @@
+[INFO] 11-08-2025 13:25:07 [main] [Tests.TC12_OrderSummaryTest.setup(TC12_OrderSummaryTest.java:31)] - starting Edge browser
+[INFO] 11-08-2025 13:25:18 [main] [Tests.TC12_OrderSummaryTest.setup(TC12_OrderSummaryTest.java:33)] - get the URL and loading the page
+[INFO] 11-08-2025 13:25:33 [main] [Listeners.ITestListenersClass.onTestStart(ITestListenersClass.java:9)] - test case verifyEndToEndScenario Started
+[INFO] 11-08-2025 13:26:27 [main] [Listeners.IInvokedListenersClass.afterInvocation(IInvokedListenersClass.java:35)] - test case verifyEndToEndScenario failed

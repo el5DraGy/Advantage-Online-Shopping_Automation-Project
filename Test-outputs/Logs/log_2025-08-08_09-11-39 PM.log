@@ -1,0 +1,32 @@
+[INFO] 08-08-2025 21:11:39 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:11:50 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:12:02 [main] [Tests.TC07_MiceTest.exploreDiscoverOurWirelessMiceSection(TC07_MiceTest.java:37)] - The user is redirected to the DISCOVER OUR WIRELESS MICE page after clicking on the 'Buy Now' button.
+[INFO] 08-08-2025 21:12:05 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:12:25 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:12:36 [main] [Tests.TC07_MiceTest.mice_HP_USB_3_Button_OpticalMouse_TC(TC07_MiceTest.java:50)] - The user is redirected to the HP USB 3.0 Button Optical Mouse product page.
+[INFO] 08-08-2025 21:12:40 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:13:03 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:13:24 [main] [Tests.TC07_MiceTest.mice_HP_Z3200_Wireless_Mouse_TC(TC07_MiceTest.java:63)] - The user is redirected to the HP Z3200 Wireless Mouse product page.
+[INFO] 08-08-2025 21:13:27 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:13:41 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:14:05 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:14:17 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:14:28 [main] [Tests.TC07_MiceTest.mice_HP_Z4000_Wireless_Mouse_TC(TC07_MiceTest.java:89)] - The user is redirected to the HP Z4000 Wireless Mouse product page.
+[INFO] 08-08-2025 21:14:32 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:14:45 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:14:55 [main] [Tests.TC07_MiceTest.mice_HP_Z8000_Bluetooth_Mouse_TC(TC07_MiceTest.java:102)] - The user is redirected to the HP Z8000 Bluetooth Mouse product page.
+[INFO] 08-08-2025 21:14:57 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:15:07 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:15:16 [main] [Tests.TC07_MiceTest.mice_Kensington_Orbit_72337_Trackball_TC(TC07_MiceTest.java:128)] - The user is redirected to the Kensington Orbit 72337 Trackball product page.
+[INFO] 08-08-2025 21:15:20 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:15:30 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:15:38 [main] [Tests.TC07_MiceTest.mice_Kensington_Orbit_72352_Trackball_TC(TC07_MiceTest.java:115)] - The user is redirected to the Kensington Orbit 72352 Trackball product page.
+[INFO] 08-08-2025 21:15:43 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:15:48 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:16:00 [main] [Tests.TC07_MiceTest.mice_Logitech_G502_Proteus_Core_TC(TC07_MiceTest.java:141)] - The user is redirected to the Logitech G502 Proteus Core product page.
+[INFO] 08-08-2025 21:16:06 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:16:47 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:17:00 [main] [Tests.TC07_MiceTest.mice_Microsoft_Sculpt_Touch_Mouse_TC(TC07_MiceTest.java:154)] - The user is redirected to the Microsoft Sculpt Touch Mouse product page.
+[INFO] 08-08-2025 21:17:03 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:21)] - starting Edge browser
+[INFO] 08-08-2025 21:17:17 [main] [Tests.TC07_MiceTest.setup(TC07_MiceTest.java:23)] - get the URL and loading the page
+[INFO] 08-08-2025 21:17:28 [main] [Tests.TC07_MiceTest.mice_silly_meerkat_TC(TC07_MiceTest.java:167)] - The user is redirected to the silly meerkat product page.

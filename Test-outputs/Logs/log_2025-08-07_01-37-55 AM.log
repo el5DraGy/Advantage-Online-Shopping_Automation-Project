@@ -1,0 +1,6 @@
+[INFO] 07-08-2025 01:37:55 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - starting Edge browser
+[INFO] 07-08-2025 01:38:02 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - get the URL and loading the page
+[INFO] 07-08-2025 01:38:19 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:163)] - All social media footer links are displayed.
+[INFO] 07-08-2025 01:38:20 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:167)] - Checking footer social media links hrefs...
+[INFO] 07-08-2025 01:38:20 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:171)] - Clicking on footer social media links to verify navigation...
+[INFO] 07-08-2025 01:38:25 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:177)] - All social media footer links are displayed and have valid hrefs and navigation.

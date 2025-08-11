@@ -1,0 +1,3 @@
+[INFO] 09-08-2025 18:20:34 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:24)] - starting Edge browser
+[INFO] 09-08-2025 18:20:43 [main] [Tests.TC09_ShoppingCartTest.setup(TC09_ShoppingCartTest.java:26)] - get the URL and loading the page
+[INFO] 09-08-2025 18:20:56 [main] [Tests.TC09_ShoppingCartTest.verifyRemoveButton(TC09_ShoppingCartTest.java:80)] - The user is redirected to the Shopping Cart page after removing the product.

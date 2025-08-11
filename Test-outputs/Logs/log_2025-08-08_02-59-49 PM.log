@@ -1,0 +1,49 @@
+[INFO] 08-08-2025 14:59:49 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:28)] - starting Edge browser
+[INFO] 08-08-2025 14:59:58 [main] [Tests.TC01_LogInTest.setup(TC01_LogInTest.java:30)] - get the URL and loading the page
+[INFO] 08-08-2025 15:00:14 [main] [Tests.TC01_LogInTest.validLogInTC(TC01_LogInTest.java:47)] - The user is redirected to the home page after logging in with valid credentials.
+[INFO] 08-08-2025 15:00:18 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:00:31 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:00:54 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:01:05 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:01:21 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:256)] - All social media footer links are displayed.
+[INFO] 08-08-2025 15:01:21 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:260)] - Checking footer social media links hrefs...
+[INFO] 08-08-2025 15:01:21 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:264)] - Clicking on footer social media links to verify navigation...
+[INFO] 08-08-2025 15:01:22 [main] [Tests.TC02_HomeTest.checkFooterSocialLinks(TC02_HomeTest.java:270)] - All social media footer links are displayed and have valid hrefs and navigation.
+[INFO] 08-08-2025 15:01:25 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:01:36 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:02:01 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:02:13 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:02:30 [main] [Tests.TC02_HomeTest.checkHeadphonesCategoryLink(TC02_HomeTest.java:129)] - Navigated to Headphones category successfully.
+[INFO] 08-08-2025 15:02:33 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:02:46 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:03:03 [main] [Tests.TC02_HomeTest.checkLaptopsCategoryLink(TC02_HomeTest.java:86)] - Navigated to Laptops category successfully.
+[INFO] 08-08-2025 15:03:12 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:03:27 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:03:45 [main] [Tests.TC02_HomeTest.checkMiceCategoryLink(TC02_HomeTest.java:143)] - Navigated to Mice category successfully.
+[INFO] 08-08-2025 15:03:48 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:03:55 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:04:16 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:04:26 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:04:47 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:04:57 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:05:17 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:05:30 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:05:47 [main] [Tests.TC02_HomeTest.checkSearchBarAndSearchIcon(TC02_HomeTest.java:68)] - Search bar with search icon displays correct search result label.
+[INFO] 08-08-2025 15:05:47 [main] [Tests.TC02_HomeTest.checkSearchBarAndSearchIcon(TC02_HomeTest.java:71)] - Search bar with search icon displays correct search result label.
+[INFO] 08-08-2025 15:05:51 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:06:02 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:06:19 [main] [Tests.TC02_HomeTest.checkSeeOfferButton(TC02_HomeTest.java:158)] - Navigated to laptops category via See Offer button successfully.
+[INFO] 08-08-2025 15:06:22 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:06:33 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:06:50 [main] [Tests.TC02_HomeTest.checkShoppingCartButton(TC02_HomeTest.java:56)] - Navigated to the shopping cart page successfully.
+[INFO] 08-08-2025 15:06:54 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:07:05 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:07:22 [main] [Tests.TC02_HomeTest.checkSpeakersCategoryLink(TC02_HomeTest.java:101)] - Navigated to Speakers category successfully.
+[INFO] 08-08-2025 15:07:25 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:36)] - starting Edge browser
+[INFO] 08-08-2025 15:07:39 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:38)] - get the URL and loading the page
+[INFO] 08-08-2025 15:07:56 [main] [Tests.TC02_HomeTest.checkTabletsCategoryLink(TC02_HomeTest.java:115)] - Navigated to Tablets category successfully.
+[INFO] 08-08-2025 15:07:59 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:22)] - starting Edge browser
+[INFO] 08-08-2025 15:08:14 [main] [Tests.TC03_LaptopsTest.setup(TC03_LaptopsTest.java:24)] - get the URL and loading the page
+[INFO] 08-08-2025 15:08:28 [main] [Tests.TC03_LaptopsTest.navigateToLaptopsCategory(TC03_LaptopsTest.java:41)] - The user is redirected to the shopping cart page after adding a product to the cart.
+[INFO] 08-08-2025 15:08:32 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:23)] - starting Edge browser
+[INFO] 08-08-2025 15:08:41 [main] [Tests.TC04_HeadphonesTest.setup(TC04_HeadphonesTest.java:25)] - get the URL and loading the page

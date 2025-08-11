@@ -1,0 +1,3 @@
+[INFO] 05-08-2025 21:48:30 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - starting Edge browser
+[INFO] 05-08-2025 21:48:37 [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - get the URL and loading the page
+[INFO] 05-08-2025 21:49:29 [main] [Tests.TC02_HomeTest.checkSearchBarAndSearchIcon(TC02_HomeTest.java:149)] - Search bar with search icon displays correct search result label.

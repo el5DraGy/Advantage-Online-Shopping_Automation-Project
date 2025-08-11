@@ -1,0 +1,7 @@
+{
+  "SafePay_username": "testuser",
+  "SafePay_password": "Test@12345",
+  "MasterCredit_CardNumber": "0123 4567 8912",
+  "MasterCredit_CVV_Number": "123",
+  "MasterCredit_CardholderName": "Motcha Lotcha"
+}
