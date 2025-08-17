@@ -81,7 +81,8 @@ public class TC11_PaymentMethodsTest {
                 .clickOnPayNowButton_SAFEPAY();
 
         softAssert.assertTrue(new Pages.P12_OrderSummaryPage(getDriver()).isOrderSummaryPageDisplayed(),
-                "The user is not redirected to the Order Summary page after clicking on the 'Pay Now' button using SafePay.");
+                "The user is not redirected to the Order Summary page after clicking" +
+                        " on the 'Pay Now' button using SafePay.");
     }
 
     //TODO : Add test case for Master credit payment method
